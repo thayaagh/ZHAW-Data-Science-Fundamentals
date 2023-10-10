@@ -1,0 +1,20 @@
+# Sear for streetname like 'Culmanstr'
+db.collection.find({
+  "tags.addr:street": {
+    "$regex": "Culmanstr"
+  }
+})
+
+# Sear for restaurant with name like 'Löw'
+db.collection.find({
+  "tags.name": {
+    "$regex": "Löw"
+  }
+})
+
+# Sear for restaurant with opening hours '18:00-23:30'
+db.collection.find({
+  "tags.opening_hours": {
+    "$regex": "18:00-23:30"
+  }
+})

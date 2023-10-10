@@ -1,0 +1,3350 @@
+[
+  {
+    "type": "node",
+    "id": 105506327,
+    "lat": 47.3849796,
+    "lon": 8.5482469,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "111",
+      "addr:postcode": "8006",
+      "addr:street": "Universitätstrasse",
+      "amenity": "restaurant",
+      "email": "info@altenloewen.ch",
+      "name": "Zum Alten Löwen",
+      "note": "Kalte Jahreszeit: DI–FR 11:30-14:00 und 18:00-23:30 Uhr; SA 18:00-23:30 Uhr | Gartensaison: DI–FR 11:30-23:30 Uhr, SA 17:00-23:30 Uhr",
+      "opening_hours": "Tu-Fr 11:30-14:00, 18:00-23:30; Sa 18:00-23:30, Su, Mo off",
+      "outdoor_seating": "yes",
+      "phone": "+41 43 343 11 69",
+      "takeaway": "yes",
+      "toilets:wheelchair": "designated",
+      "website": "https://www.altenloewen.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 252407018,
+    "lat": 47.3794422,
+    "lon": 8.5470198,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "1",
+      "addr:postcode": "8006",
+      "addr:street": "Culmannstrasse",
+      "amenity": "restaurant",
+      "contact:email": "info@culmann.ch",
+      "contact:phone": "+41 44 251 36 51",
+      "contact:website": "https://www.culmann.ch/",
+      "cuisine": "italian;pizza",
+      "name": "Ristorante Culmann",
+      "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 17:30-23:00",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 252407019,
+    "lat": 47.3797201,
+    "lon": 8.5469255,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-06-21",
+      "cuisine": "italian",
+      "delivery": "no",
+      "name": "La Fontana",
+      "opening_hours": "Mo-Fr 08:00-16:00",
+      "outdoor_seating": "yes",
+      "website": "https://www.instagram.com/la_fontana_zurich/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 261914358,
+    "lat": 47.3835914,
+    "lon": 8.5283234,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "5",
+      "addr:postcode": "8005",
+      "addr:street": "Gasometerstrasse",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2023-09-11",
+      "cuisine": "moroccan",
+      "name": "Dar",
+      "opening_hours": "We-Fr 18:00-22:00; Sa,Su 10:00-14:00,18:00-22:00",
+      "reservation": "yes",
+      "toilets": "yes",
+      "toilets:wheelchair": "yes",
+      "website": "https://www.restaurantdar.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 283458339,
+    "lat": 47.3771005,
+    "lon": 8.5375221,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "32",
+      "addr:postcode": "8001",
+      "addr:street": "Schützengasse",
+      "amenity": "restaurant",
+      "indoor_seating": "yes",
+      "name": "Schützengasse",
+      "opening_hours": "Mo-Fr 11:30-14:30; Sa 19:00-24:00; Su off",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 500 10 30",
+      "website": "https://www.schuetzengasse.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 303067123,
+    "lat": 47.3851137,
+    "lon": 8.5362371,
+    "tags": {
+      "addr:street": "Wasserwerkstrasse",
+      "amenity": "restaurant",
+      "date_off": "around october",
+      "date_on": "around april",
+      "name": "Primitivo",
+      "opening_hours": "Mo-Su 16:00-00:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309922700,
+    "lat": 47.3772976,
+    "lon": 8.5269997,
+    "tags": {
+      "addr:housenumber": "32",
+      "addr:street": "Hohlstrasse",
+      "amenity": "restaurant",
+      "name": "Sonne",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 311607628,
+    "lat": 47.3775516,
+    "lon": 8.5262968,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "44",
+      "addr:postcode": "8004",
+      "addr:street": "Hohlstrasse",
+      "amenity": "restaurant",
+      "capacity": "70",
+      "check_date": "2023-09-24",
+      "cuisine": "tibetan",
+      "email": "langstrasse@tenz.ch",
+      "name": "Tenz Momo",
+      "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr 11:30-14:00,17:30-24:00; Sa 16:00-24:00; Su off",
+      "outdoor_seating": "yes",
+      "phone": "+41 76 816 80 44",
+      "website": "https://www.tenz.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 312580271,
+    "lat": 47.3825398,
+    "lon": 8.5296036,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "197",
+      "addr:postcode": "8005",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "delivery": "yes",
+      "name": "LILY'S",
+      "opening_hours": "Mo-Sa 11:00-24:00; Su 12:00-22:30",
+      "payment:postfinance_card": "yes",
+      "phone": "+41 44 440 18 85",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://lilys.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 318314808,
+    "lat": 47.3770714,
+    "lon": 8.5327288,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2022-10-12",
+      "cuisine": "italian",
+      "name": "Camino",
+      "opening_hours": "Tu-Fr 11:30-14:00, Tu-Sa 18:30-23:30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 321000070,
+    "lat": 47.3867368,
+    "lon": 8.5340332,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "89a",
+      "addr:postcode": "8037",
+      "addr:street": "Wasserwerkstrasse",
+      "amenity": "restaurant",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "indoor_seating": "yes",
+      "name": "Stazione Paradiso",
+      "opening_hours": "We-Fr 11:30-00:00; Sa, Su 11:30-00:00",
+      "outdoor_seating": "yes",
+      "smoking": "outside",
+      "website": "https://www.stazioneparadiso.ch/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 321364310,
+    "lat": 47.3772558,
+    "lon": 8.5470004,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2023-05-15",
+      "cuisine": "asian",
+      "indoor_seating": "yes",
+      "internet_access": "wlan",
+      "internet_access:fee": "yes",
+      "name": "Clausiusbar",
+      "opening_hours": "Mo-Fr 11:00-14:00",
+      "outdoor_seating": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "smoking": "no",
+      "website": "https://clausiusbar.sv-restaurant.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 321364380,
+    "lat": 47.3783140,
+    "lon": 8.5488050,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "6",
+      "addr:postcode": "8092",
+      "addr:street": "Universitätstrasse",
+      "amenity": "restaurant",
+      "cuisine": "fusion",
+      "name": "food&lab",
+      "opening_hours": "Mo-Fr 11:30-13:30",
+      "opening_hours:kitchen": "Mo-Fr 11:30-13:30",
+      "phone": "+41 44 632 80 11",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/food-lab.html",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 334300587,
+    "lat": 47.3773665,
+    "lon": 8.5261690,
+    "tags": {
+      "addr:housenumber": "43",
+      "addr:street": "Hohlstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-06",
+      "cuisine": "regional;swiss",
+      "name": "Aargauerhof",
+      "opening_hours": "Mo,We-Th,Sa 11:00-23:00; Tu,Fr 10:00-23:00; Su 16:00-22:00",
+      "operator": "Beffa Gastro",
+      "phone": "+41 44 242 46 16",
+      "website": "http://restaurant-aargauerhof.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 360330661,
+    "lat": 47.3818740,
+    "lon": 8.5338089,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "68",
+      "addr:postcode": "8005",
+      "addr:street": "Konradstrasse",
+      "amenity": "restaurant",
+      "cuisine": "chinese;cantonese",
+      "name": "Uncle 7",
+      "opening_hours": "Tu-Su 11:30-14:30,17:30-22:30",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 271 33 88",
+      "website": "https://chinarestaurantuncle7.business.site/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 360330662,
+    "lat": 47.3819982,
+    "lon": 8.5336329,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "33",
+      "addr:postcode": "8005",
+      "addr:street": "Klingenstrasse",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Vulkan",
+      "opening_hours": "Mo-Fr 11:30-13:30, Mo-Th 17:30-22:00, Fr 17:30-23:00, Sa 17:30-23:00, Su 17:30-22:00",
+      "website": "https://www.restaurant-vulkan.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 365838427,
+    "lat": 47.3865398,
+    "lon": 8.5414596,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian;pizza",
+      "name": "Pizzeria Corallo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 365838929,
+    "lat": 47.3861132,
+    "lon": 8.5452851,
+    "tags": {
+      "addr:housenumber": "65",
+      "addr:street": "Scheuchzerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-09-20",
+      "email": "info@restaurantkreis6.ch",
+      "fax": "+4144 361 57 97",
+      "name": "Kreis 6",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 362 80 06",
+      "website": "http://restaurantkreis6.ch",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 365892432,
+    "lat": 47.3830272,
+    "lon": 8.5396636,
+    "tags": {
+      "addr:city": "Zürich",
+      "amenity": "restaurant",
+      "cuisine": "cake;coffee_shop",
+      "indoor_seating": "yes",
+      "internet_access": "wlan",
+      "name": "Chuchi am Wasser",
+      "opening_hours": "Tu-Fr 10:30-23:00; Sa 11:00-23:00",
+      "outdoor_seating": "yes",
+      "website": "https://www.dynamo.ch/restaurant-bar",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 365918123,
+    "lat": 47.3789264,
+    "lon": 8.5444684,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "26",
+      "addr:postcode": "8001",
+      "addr:street": "Weinbergstrasse",
+      "amenity": "restaurant",
+      "contact:email": "info@pizzaciao.ch",
+      "contact:fax": "+41 44 262 33 62",
+      "contact:phone": "+41 44 262 33 55",
+      "contact:website": "http://www.pizzaciao.ch",
+      "cuisine": "italian",
+      "indoor_seating": "yes",
+      "name": "Pizza Pasta Ciao",
+      "opening_hours": "Mo-Fr 10:00-14:30,17:30-24:00; Sa 17:30-24:00",
+      "outdoor_seating": "no",
+      "toilets": "yes",
+      "toilets:wheelchair": "no",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 446784538,
+    "lat": 47.3821979,
+    "lon": 8.5317241,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:postcode": "8005",
+      "addr:street": "Josefstrasse",
+      "amenity": "restaurant",
+      "cuisine": "tacos;mexican",
+      "name": "LA Brea SoCal Tacos",
+      "opening_hours": "Mo-Th 18:00-22:00; Sa 10:00-14:00,17:30-22:30; Su 10:00-14:00",
+      "phone": "+41 44 311 20 20",
+      "website": "https://de.la-brea.ch",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 446784539,
+    "lat": 47.3826240,
+    "lon": 8.5312467,
+    "tags": {
+      "addr:housenumber": "77",
+      "addr:street": "Josefstrasse",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Spicy Box"
+    }
+  },
+  {
+    "type": "node",
+    "id": 451727077,
+    "lat": 47.3844648,
+    "lon": 8.5278368,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:postcode": "8005",
+      "amenity": "restaurant",
+      "changing_table": "no",
+      "contact:phone": "+41 44 2712030",
+      "contact:website": "https://tibetasia.ch",
+      "cuisine": "asian;tibetan",
+      "diet:vegetarian": "yes",
+      "highchair": "yes",
+      "name": "Tibetasia",
+      "opening_hours": "Mo-Fr 11:30-14:00, 18:00-23:00; Sa 18:00-23:00; Su 17:30-22:00",
+      "outdoor_seating": "yes",
+      "payment:postfinance_card": "yes",
+      "smoking": "no",
+      "toilets:wheelchair": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 465612622,
+    "lat": 47.3845990,
+    "lon": 8.5275777,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:postcode": "8005",
+      "alt_name": "Schwanen",
+      "amenity": "restaurant",
+      "cuisine": "arab",
+      "name": "Damas",
+      "opening_hours": "Mo-Su 10:00-24:00",
+      "outdoor_seating": "yes",
+      "website": "http://www.restaurantdamas.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 470220209,
+    "lat": 47.3836276,
+    "lon": 8.5287302,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:postcode": "8005",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Eisenhof",
+      "opening_hours": "Mo-Fr 09:00-24:00; Sa 18:00-24:00",
+      "website": "https://www.restauranteisenhof.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 552929127,
+    "lat": 47.3832538,
+    "lon": 8.5416447,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "swiss",
+      "name": "Drei Stuben",
+      "opening_hours": "Tu-Fr 11:00-14:30,17:00-23:00; Sa 17:00-0:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 350 33 00",
+      "toilets:wheelchair": "no",
+      "website": "https://www.drei-stuben.ch/",
+      "wheelchair": "limited",
+      "wheelchair:description": "WCs befinden sich im Keller"
+    }
+  },
+  {
+    "type": "node",
+    "id": 552932425,
+    "lat": 47.3831180,
+    "lon": 8.5413332,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "102",
+      "addr:postcode": "8006",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Valento",
+      "old_name": "Grottino 85",
+      "operator": "Sares Invest",
+      "website": "https://valento.restaurant/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 582265531,
+    "lat": 47.3787576,
+    "lon": 8.5270372,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "103",
+      "addr:postcode": "8004",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "regional",
+      "name": "Gambrinus",
+      "opening_hours": "Mo-Fr 09:00-24:00; Sa-Su 10:00-24:00",
+      "operator": "Beffa Gastro",
+      "website": "http://gambrinus-langstrasse.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 632545305,
+    "lat": 47.3791435,
+    "lon": 8.5452080,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "1",
+      "addr:postcode": "8001",
+      "addr:street": "Leonhardstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-21",
+      "cuisine": "italian",
+      "name": "Restaurant Bocuci: Bottega & Cucina",
+      "opening_hours": "Tu-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30; Su-Mo off",
+      "phone": "+41 44 261 40 55",
+      "website": "https://www.bocuci.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 632553574,
+    "lat": 47.3799672,
+    "lon": 8.5469246,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "3",
+      "addr:postcode": "8006",
+      "addr:street": "Haldenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Restaurant Haldenbach",
+      "opening_hours": "Mo-Fr 08:30-24:00; Sa 18:00-24:00; Su off",
+      "phone": "+41 44 2618040",
+      "website": "http://www.restauranthaldenbach.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 632562127,
+    "lat": 47.3805744,
+    "lon": 8.5483371,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "40",
+      "addr:postcode": "8006",
+      "addr:street": "Universitätstrasse",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2023-05-17",
+      "cuisine": "italian",
+      "name": "Ristorante Al Forno da Angelo",
+      "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00; Su off",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 251 65 77",
+      "website": "https://de-de.facebook.com/RistoranteAlFornoDaAngelo/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 633584181,
+    "lat": 47.3786854,
+    "lon": 8.5479520,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:street": "Universitätstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-21",
+      "cuisine": "italian",
+      "name": "Hot Pasta",
+      "opening_hours": "Mo-Fr 11:00-24:00",
+      "opening_hours:kitchen": "Mo-Fr 11:00-23:00; Sa 11:00-15:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 43 535 76 65",
+      "website": "http://hotpasta.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656508776,
+    "lat": 47.3773121,
+    "lon": 8.5277904,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "15",
+      "addr:postcode": "8004",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "cuisine": "burger",
+      "email": "info@thebite.ch",
+      "name": "The Bite",
+      "opening_hours": "Tu-Th 11:30-13:30, 18:00-22:00; Fr 11:30-13:30, 18:00-22:30; Sa 18:00-22:30",
+      "phone": "+41 44 242 30 00",
+      "website": "https://www.thebite.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656628375,
+    "lat": 47.3770799,
+    "lon": 8.5274993,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "18",
+      "addr:postcode": "8004",
+      "addr:street": "Hohlstrasse",
+      "amenity": "restaurant",
+      "cuisine": "mongolian",
+      "name": "Tavtai"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656649674,
+    "lat": 47.3770439,
+    "lon": 8.5287783,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "4",
+      "addr:postcode": "8004",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "indoor_seating": "yes",
+      "name": "Ach'i",
+      "note:covid19": "Take Away verfügbar im Restaurant Khujug an der Schöneggstrasse 5",
+      "opening_hours": "Mo-Fr 11:00-14:30, 18:00-22:00; Sa 12:00-22:00; Su 17:00-22:00",
+      "outdoor_seating": "no",
+      "phone": "+41 44 542 88 85",
+      "website": "https://www.achi.restaurant/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656699893,
+    "lat": 47.3779077,
+    "lon": 8.5270821,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "42",
+      "addr:postcode": "8004",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "name": "Stubä",
+      "outdoor_seating": "yes",
+      "website": "https://www.stube.me/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656719956,
+    "lat": 47.3774661,
+    "lon": 8.5279076,
+    "tags": {
+      "addr:housenumber": "26",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "name": "Brauerhof",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656765445,
+    "lat": 47.3775725,
+    "lon": 8.5257388,
+    "tags": {
+      "addr:housenumber": "49",
+      "addr:street": "Hohlstrasse",
+      "amenity": "restaurant",
+      "cuisine": "regional;swiss",
+      "name": "Schweizer Weinstube",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 656824967,
+    "lat": 47.3784958,
+    "lon": 8.5271796,
+    "tags": {
+      "addr:housenumber": "40",
+      "addr:street": "Dienerstrasse",
+      "alt_name": "Restaurant Schweizerdegen",
+      "amenity": "restaurant",
+      "name": "Schweizerdegen El Papi",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 703215222,
+    "lat": 47.3799445,
+    "lon": 8.5432644,
+    "tags": {
+      "addr:housenumber": "40",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "delivery": "yes",
+      "name": "Ora Thai",
+      "phone": "+41 43 443 90 00",
+      "website": "https://www.orathaizuerich.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 703215583,
+    "lat": 47.3797772,
+    "lon": 8.5433558,
+    "tags": {
+      "addr:housenumber": "38",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Casa Ferlin",
+      "old_name": "Chiantiquelle",
+      "opening_hours": "Mo-Fr 11:30-14:00, 18:30-22:00",
+      "phone": "+41 44 362 35 09",
+      "website": "http://www.casaferlin.ch/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 721046173,
+    "lat": 47.3874963,
+    "lon": 8.5272804,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "127",
+      "addr:postcode": "8005",
+      "addr:street": "Limmatstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-04-07",
+      "name": "Limmathof",
+      "opening_hours": "Mo-Fr 09:00-23:00; Sa 16:00-23:00",
+      "website": "https://www.arbeitskette.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 721046177,
+    "lat": 47.3871627,
+    "lon": 8.5284890,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "12",
+      "addr:postcode": "8005",
+      "addr:street": "Fabrikstrasse",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "indoor_seating": "yes",
+      "name": "Alpenrose",
+      "opening_hours": "Tu-Fr 11:00-23:00; Sa 17:00-23:30; Su 17:00-22:00",
+      "outdoor_seating": "yes",
+      "website": "https://www.restaurantalpenrose.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 721046235,
+    "lat": 47.3863348,
+    "lon": 8.5290357,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "189",
+      "addr:postcode": "8005",
+      "addr:street": "Limmatstrasse",
+      "amenity": "restaurant",
+      "cuisine": "malaysian",
+      "diet:vegetarian": "yes",
+      "indoor_seating": "yes",
+      "name": "a fatt",
+      "opening_hours": "Sa,Su 11:00-22:00; We-Fr 11:00-14:00,17:00-22:00; Mo,Tu off",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 304 16 89",
+      "website": "https://restaurant-a-fatt.business.site",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 725764771,
+    "lat": 47.3821082,
+    "lon": 8.5356474,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "10",
+      "addr:postcode": "8005",
+      "addr:street": "Baumgasse",
+      "amenity": "restaurant",
+      "cuisine": "peruvian",
+      "name": "Püente",
+      "opening_hours": "Tu-Sa 18:00-23:00",
+      "phone": "+41 44 869 00 00",
+      "website": "https://puente.ch/",
+      "website:menu": "https://puente.ch/menu/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 725765073,
+    "lat": 47.3842264,
+    "lon": 8.5319218,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2022-09-11",
+      "cuisine": "pizza",
+      "name": "Millennium",
+      "opening_hours": "Fr,Sa 00:00+; Su-Th 07:30-24:00+"
+    }
+  },
+  {
+    "type": "node",
+    "id": 792593919,
+    "lat": 47.3901801,
+    "lon": 8.5400652,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "La Casa",
+      "website": "https://www.ristorante-lacasa.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 792594129,
+    "lat": 47.3905675,
+    "lon": 8.5394452,
+    "tags": {
+      "amenity": "restaurant",
+      "indoor_seating": "yes",
+      "name": "Arctika",
+      "opening_hours": "Tu-Sa 08:00-22:00",
+      "outdoor_seating": "yes",
+      "website": "https://arctika.restaurant",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 920508401,
+    "lat": 47.3771144,
+    "lon": 8.5281687,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "9",
+      "addr:postcode": "8004",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "cuisine": "asian",
+      "name": "Ah-Hua",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 973933405,
+    "lat": 47.3855243,
+    "lon": 8.5312041,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "152",
+      "addr:postcode": "8005",
+      "addr:street": "Limmatstrasse",
+      "alt_name": "Migros Restaurant Limmatplatz",
+      "amenity": "restaurant",
+      "branch": "Zürich Limmatplatz",
+      "brand": "Migros Restaurant",
+      "brand:wikidata": "Q680727",
+      "check_date": "2023-06-02",
+      "cuisine": "international",
+      "delivery": "no",
+      "diet:vegetarian": "yes",
+      "internet_access": "wlan",
+      "level": "0",
+      "name": "Migros Restaurant",
+      "opening_hours": "Mo-Sa 11:00-14:00; PH off",
+      "operator": "Genossenschaft Migros Zürich",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+41585635340",
+      "self_service": "yes",
+      "smoking": "no",
+      "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-limmatplatz",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 988652370,
+    "lat": 47.3807368,
+    "lon": 8.5345758,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:street": "Hafnerstrasse",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Yoshino",
+      "opening_hours": "Mo 18:00-22:30; Tu-Fr 11:00-14:00,18:15-23:00; Sa 18:00-23:00",
+      "phone": "+41 44 271 22 22",
+      "website": "https://www.yoshino.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1083769431,
+    "lat": 47.3779493,
+    "lon": 8.5298119,
+    "tags": {
+      "addr:housenumber": "29",
+      "addr:postcode": "8004",
+      "addr:street": "Kanonengasse",
+      "amenity": "restaurant",
+      "cuisine": "sri_lankan",
+      "name": "Neela",
+      "old_name": "Le Chef",
+      "website": "https://neela.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1137687375,
+    "lat": 47.3784747,
+    "lon": 8.5303520,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "indoor_seating": "yes",
+      "name": "Lele",
+      "opening_hours": "Mo-We 11:30-15:00,17:00-00:00; Th 11:30-15:00,17:00-02:00; Fr 11:30-15:00,17:00-04:00; Sa 18:00-04:00",
+      "outdoor_seating": "no",
+      "website": "https://www.restaurantlele.ch/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1235083458,
+    "lat": 47.3798297,
+    "lon": 8.5270667,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-04-20",
+      "cuisine": "chinese",
+      "diet:vegetarian": "yes",
+      "indoor_seating": "yes",
+      "name": "Khujug",
+      "opening_hours": "Mo-Fr 11:00-14:30, 18:00-23:00; Sa 12:00-23:00; Su 17:00-22:30",
+      "outdoor_seating": "yes",
+      "phone": "+41 41 888 05 58",
+      "website": "https://www.khujug.restaurant/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1235083599,
+    "lat": 47.3808758,
+    "lon": 8.5262009,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Schnupf / Rangierbahnhof",
+      "opening_hours": "Tu-We 17:00-24:00, Th-Sa 17:00-02:00",
+      "phone": "+41 44 291 92 73",
+      "website": "https://www.schnupf.bar/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1235083613,
+    "lat": 47.3793855,
+    "lon": 8.5258658,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "name": "Biondi",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1235083774,
+    "lat": 47.3796942,
+    "lon": 8.5257070,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Eichhörnli",
+      "website": "https://www.restaurant-eichhoernli.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1235083798,
+    "lat": 47.3798446,
+    "lon": 8.5276503,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "133",
+      "addr:postcode": "8004",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-04-20",
+      "name": "Lady Suzette",
+      "opening_hours": "Mo-We,Su off; Th 15:00-24:00; Fr-Sa 16:00-28:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1240044657,
+    "lat": 47.3786741,
+    "lon": 8.5299156,
+    "tags": {
+      "addr:housenumber": "84",
+      "addr:street": "Militärstrasse",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "email": "restaurant@thach.ch",
+      "indoor_seating": "yes",
+      "name": "Thach",
+      "opening_hours": "Mo-Sa 11:00-14:00,18:00-22:00",
+      "outdoor_seating": "no",
+      "phone": "+41 43 243 37 27",
+      "website": "http://www.thach.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1240180975,
+    "lat": 47.3791536,
+    "lon": 8.5283971,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "109",
+      "addr:postcode": "8004",
+      "addr:street": "Militärstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-09-24",
+      "cuisine": "italian",
+      "diet:vegetarian": "yes",
+      "indoor_seating": "yes",
+      "name": "Pizzeria Milano",
+      "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 241 88 17",
+      "website": "https://www.restaurant-milano.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1240990708,
+    "lat": 47.3784276,
+    "lon": 8.5284216,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Zwinglistrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "italian",
+      "email": "morgenstern.zh@bluewin.ch",
+      "name": "Morgenstern da Mario",
+      "phone": "+41 44 242 68 30",
+      "website": "https://morgenstern-zh.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1241219769,
+    "lat": 47.3787987,
+    "lon": 8.5265659,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Stella Alpina",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1241219823,
+    "lat": 47.3777904,
+    "lon": 8.5296685,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:postcode": "8004",
+      "addr:street": "Zwinglistrasse",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Hongxi",
+      "phone": "+41 43 549 20 20",
+      "website": "http://www.hongxi-restaurant.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1243596474,
+    "lat": 47.3782008,
+    "lon": 8.5292404,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "12",
+      "addr:postcode": "8004",
+      "addr:street": "Zwinglistrasse",
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "diet:vegetarian": "yes",
+      "name": "Kinkhao",
+      "phone": "+41 79 446 73 66",
+      "website": "https://www.kinkhao.ch",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1335408633,
+    "lat": 47.3802932,
+    "lon": 8.5448286,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housename": "Gebäude IFW E 31",
+      "addr:housenumber": "4",
+      "addr:postcode": "8092",
+      "addr:street": "Haldeneggsteig",
+      "amenity": "restaurant",
+      "delivery": "no",
+      "name": "GESS-Bar",
+      "opening_hours": "Mo-Fr 08:00-15:30",
+      "operator": "SV Service",
+      "outdoor_seating": "yes",
+      "smoking": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1346146716,
+    "lat": 47.3797298,
+    "lon": 8.5372003,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "2",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "alt_name": "Wirtschaft zum Vorbahnhof",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2022-01-21",
+      "cuisine": "regional",
+      "indoor_seating": "yes",
+      "level": "0",
+      "name": "Brasserie zum Vorbahnhof",
+      "opening_hours": "Mo-Fr 11:00-23:00; Sa 11:00-18:00",
+      "operator": "Candrian Catering",
+      "outdoor_seating": "yes",
+      "website": "https://www.vorbahnhof.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1360794125,
+    "lat": 47.3779110,
+    "lon": 8.5294772,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "7",
+      "addr:postcode": "8004",
+      "addr:street": "Zwinglistrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "regional",
+      "name": "Tabula Rasa",
+      "website": "http://www.zumgoldenenfass.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1360830654,
+    "lat": 47.3778272,
+    "lon": 8.5304532,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "20",
+      "addr:postcode": "8004",
+      "addr:street": "Kanonengasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "international",
+      "name": "Zeughaushof",
+      "operator": "HOP! Züri",
+      "website": "http://www.hopzueri.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1360843969,
+    "lat": 47.3780557,
+    "lon": 8.5299364,
+    "tags": {
+      "addr:housenumber": "31",
+      "addr:postcode": "8004",
+      "addr:street": "Kanonengasse",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Viet-Thai",
+      "opening_hours": "Mo-Fr 11:00-14:00,17:30-22:30; Sa 17:30-22:30",
+      "website": "http://www.viet-thai.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1373290925,
+    "lat": 47.3823657,
+    "lon": 8.5303266,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:postcode": "8005",
+      "amenity": "restaurant",
+      "check_date": "2023-09-24",
+      "cuisine": "noodle",
+      "name": "Yume Ramen",
+      "opening_hours": "Mo,Su off; Tu-Fr 18:00-21:30; Sa 12:00-13:30,18:00-21:30",
+      "operator": "Sala of Tokyo",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1373309487,
+    "lat": 47.3818623,
+    "lon": 8.5296911,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "192",
+      "addr:postcode": "8005",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-09-24",
+      "cuisine": "jordanian",
+      "name": "Soul Köfte",
+      "opening_hours": "Mo-Th 11:00-14:00,17:00-22:00; Fr 11:00-14:00,17:00-23:00; Sa 12:00-23:00; Su 17:00-22:00",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1374903992,
+    "lat": 47.3799976,
+    "lon": 8.5373936,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "St. Gallerhof",
+      "opening_hours": "Mo-Fr 09:30-24:00; Sa 09:30-22:00; Su 10:00-21:00",
+      "website": "http://www.st-gallerhof.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1374903993,
+    "lat": 47.3800785,
+    "lon": 8.5370948,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "lebanese",
+      "name": "Sham",
+      "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1375347145,
+    "lat": 47.3828582,
+    "lon": 8.5307697,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "29",
+      "addr:postcode": "8005",
+      "addr:street": "Mattengasse",
+      "amenity": "restaurant",
+      "check_date": "2023-09-24",
+      "check_date:opening_hours": "2022-10-13",
+      "cuisine": "indian",
+      "name": "Don’t Worry Eat Curry",
+      "opening_hours": "Mo-Th 11:30-22:00; Fr,Sa 11:30-23:00",
+      "opening_hours:signed": "no",
+      "phone": "+41 43 366 82 94",
+      "takeaway": "yes",
+      "website": "http://www.dontworry-eatcurry.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1377247221,
+    "lat": 47.3820940,
+    "lon": 8.5300961,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:postcode": "8005",
+      "amenity": "restaurant",
+      "check_date": "2023-09-24",
+      "cuisine": "brazilian",
+      "name": "Casa da Picanha",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 271 61 61",
+      "website": "https://picanha-brasil.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1377247256,
+    "lat": 47.3820132,
+    "lon": 8.5303576,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "35",
+      "addr:postcode": "8005",
+      "addr:street": "Neugasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-18",
+      "cuisine": "regional",
+      "name": "Restaurant Neugasshof"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1383580139,
+    "lat": 47.3837599,
+    "lon": 8.5284695,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "7",
+      "addr:postcode": "8005",
+      "addr:street": "Gasometerstrasse",
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "name": "Co Chin Chin",
+      "opening_hours": "Mo-Fr 11:00-14:30,18:00-23:00, Sa 10:00-24:00, Su 10:00-21:00",
+      "website": "https://www.cochinchin.ch",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1383580144,
+    "lat": 47.3838948,
+    "lon": 8.5307672,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "231",
+      "addr:postcode": "8005",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-10",
+      "cuisine": "regional",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "only",
+      "email": "info@samses.ch",
+      "name": "SamSes",
+      "opening_hours": "We-Sa 17:00-23:00",
+      "phone": "+41 44 440 13 13",
+      "website": "http://www.samses.ch",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1508362751,
+    "lat": 47.3876044,
+    "lon": 8.5260285,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "231",
+      "addr:postcode": "8005",
+      "addr:street": "Limmatstrasse",
+      "amenity": "restaurant",
+      "cuisine": "international",
+      "description": "Im Viadukt, Bogen 36, 37, 46 und 47",
+      "email": "info@restaurant-maha.ch",
+      "indoor_seating": "yes",
+      "name": "Restaurant Markthalle",
+      "opening_hours": "Mo 09:00-23:00; Tu-Sa 09:00-24:00; Su off",
+      "operator": "Gasometer AG",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 201 00 60",
+      "toilets:wheelchair": "yes",
+      "website": "http://www.restaurant-maha.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1760802115,
+    "lat": 47.3773415,
+    "lon": 8.5332076,
+    "tags": {
+      "addr:housenumber": "14",
+      "addr:postcode": "8004",
+      "addr:street": "Freischützgasse",
+      "amenity": "restaurant",
+      "capacity": "150",
+      "check_date:opening_hours": "2022-09-01",
+      "indoor_seating": "yes",
+      "name": "Kennedy's Irish Pub",
+      "opening_hours": "Mo-Th 11:30-24:00; Fr-Sa 11:30-24:00+; Su 13:00-24:00",
+      "opening_hours:kitchen": "Mo-Sa 11:30-22:00; Su 13:00-22:00",
+      "outdoor_seating": "yes",
+      "smoking": "outside",
+      "theme": "irish",
+      "toilets:wheelchair": "no",
+      "website": "https://www.kennedys.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1867263239,
+    "lat": 47.3815450,
+    "lon": 8.5483263,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "56",
+      "addr:postcode": "8006",
+      "addr:street": "Universitätstrasse",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Rubina",
+      "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 350 30 15",
+      "website": "https://restaurant-rubina.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1888545640,
+    "lat": 47.3817668,
+    "lon": 8.5336560,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "69",
+      "addr:postcode": "8005",
+      "addr:street": "Konradstrasse",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "El Luchador",
+      "opening_hours": "Mo-Th 17:00-00:00; Fr-Sa 17:00-01:00",
+      "phone": "+41 44 271 72 00",
+      "website": "http://www.elluchador.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1978573306,
+    "lat": 47.3841620,
+    "lon": 8.5304006,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "40",
+      "addr:postcode": "8005",
+      "addr:street": "Luisenstrasse",
+      "alt_name": "Cucina Limmatplatz",
+      "amenity": "restaurant",
+      "branch": "Zürich Limmatplatz",
+      "cuisine": "italian;pizza",
+      "name": "Cucina",
+      "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr-Su 11:30-23:00",
+      "toilets:wheelchair": "no",
+      "website": "https://www.cucinarestaurant.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1978573308,
+    "lat": 47.3832940,
+    "lon": 8.5301807,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "215",
+      "addr:postcode": "8005",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-10",
+      "cuisine": "italian",
+      "name": "Cinque",
+      "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-24:00",
+      "website": "http://www.restaurant-cinque.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2110405159,
+    "lat": 47.3840714,
+    "lon": 8.5291751,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "26",
+      "addr:postcode": "8005",
+      "addr:street": "Gasometerstrasse",
+      "alt_name": "Molino Gasometer",
+      "amenity": "restaurant",
+      "branch": "Zürich Industrie",
+      "brand": "Molino",
+      "cuisine": "pizza",
+      "name": "Molino",
+      "old_name": "Al Solito Posto",
+      "opening_hours": "Mo-Su 10:00-24:00",
+      "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
+      "operator": "Ospena Group",
+      "start_date": "2017-06-10",
+      "takeaway": "yes",
+      "website": "https://molino.ch/de/pizzeria-ristorante-molino-gasometerstrasse",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2140368471,
+    "lat": 47.3804786,
+    "lon": 8.5472423,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Bamboo Inn",
+      "opening_hours": "Tu-Sa 11:45-14:00,18:00-22:00; Su 11:45-14:00; Mo off",
+      "website": "https://bamboo-inn.ch/",
+      "website:menu": "https://bamboo-inn.ch/menu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2140368560,
+    "lat": 47.3821725,
+    "lon": 8.5474623,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "45",
+      "addr:postcode": "8006",
+      "addr:street": "Culmannstrasse",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Stapferstube da Rizzo",
+      "opening_hours": "Mo-Sa 11:30-14:30,18:00-24:00; Su off",
+      "phone": "+41 44 350 11 00",
+      "website": "https://www.stapferstube.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2289533439,
+    "lat": 47.3782017,
+    "lon": 8.5408542,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:place": "Hauptbahnhof, Nordtrakt",
+      "addr:postcode": "8001",
+      "alt_name": "SBB Restaurant Oase chez SBB",
+      "amenity": "restaurant",
+      "email": "oase@zfv.ch",
+      "fast_food": "cafeteria",
+      "level": "3",
+      "name": "Restaurant Oase",
+      "note": "15-19S.Fr. für externe. Frühstück von 06.00 bis 10.00 Uhr Warme Küche von 10.15 bis 21.00 Uhr",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "opening_hours:kitchen": "Mo-Su 10:15-21:00",
+      "operator": "ZFV-Unternehmungen",
+      "phone": "+41 44 430 00 83",
+      "website": "https://zfv.ch/de/microsites/sbb-restaurant-oase",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2330325921,
+    "lat": 47.3784801,
+    "lon": 8.5338620,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "15",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "cuisine": "international",
+      "indoor_seating": "yes",
+      "name": "Loft Five",
+      "opening_hours": "Mo-Th 11:30-24:00, Fr 11:30-02:00, Sa 10:30-02:00",
+      "operator": "Segmüller Collection",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 755 50 50",
+      "website": "http://www.loftfive.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2395154664,
+    "lat": 47.3777854,
+    "lon": 8.5272463,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "36",
+      "addr:postcode": "8004",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "name": "Stereo",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2674582306,
+    "lat": 47.3843311,
+    "lon": 8.5286143,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "25",
+      "addr:postcode": "8005",
+      "addr:street": "Motorenstrasse",
+      "amenity": "restaurant",
+      "cuisine": "greek",
+      "name": "Tavernaki Kalymnos",
+      "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00, Sa 17:00-24:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2697748607,
+    "lat": 47.3885207,
+    "lon": 8.5256303,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "spanish",
+      "name": "Costa Brava",
+      "not:brand:wikidata": "Q608845",
+      "opening_hours": "Mo-Fr 11:30-14:30, Mo-Sa 18:00-24:00",
+      "phone": "+41 44 272 27 71",
+      "website": "https://www.costabrava-zuerich.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2746139382,
+    "lat": 47.3885695,
+    "lon": 8.5392870,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "8",
+      "addr:postcode": "8006",
+      "addr:street": "Schaffhauserstrasse",
+      "amenity": "restaurant",
+      "capacity": "10",
+      "check_date": "2023-04-14",
+      "cuisine": "coffee_shop",
+      "name": "Mama's Beck",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2888142444,
+    "lat": 47.3775576,
+    "lon": 8.5438988,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "6",
+      "addr:postcode": "8001",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "indoor_seating": "yes",
+      "name": "Positano",
+      "outdoor_seating": "yes",
+      "phone": "+41 43 243 76 10",
+      "website": "https://positano.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2888142445,
+    "lat": 47.3793233,
+    "lon": 8.5435476,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "32",
+      "addr:postcode": "8001",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "diet:vegetarian": "yes",
+      "name": "Bombay Karachi",
+      "opening_hours": "Mo-Fr 11:00-14:00,18:00-21:30",
+      "outdoor_seating": "pedestrian_zone",
+      "phone": "+41 44 262 65 00",
+      "smoking": "no",
+      "takeaway": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2888142446,
+    "lat": 47.3777853,
+    "lon": 8.5438498,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "8",
+      "addr:postcode": "8001",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "changing_table": "no",
+      "cuisine": "italian",
+      "highchair": "yes",
+      "name": "Commihalle",
+      "opening_hours": "Mo-Fr 09:00-24:00; Sa-Su 11:00-24:00",
+      "operator": "Restaurants Commercio-Piccadilly",
+      "toilets": "yes",
+      "toilets:access": "customers",
+      "toilets:wheelchair": "no",
+      "website": "https://www.commercio.ch/commihalle/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2888172595,
+    "lat": 47.3815179,
+    "lon": 8.5422215,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "68",
+      "addr:postcode": "8006",
+      "addr:street": "Stampfenbachstrasse",
+      "alt_name": "Santa Lucia Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "brand": "Santa Lucia",
+      "brand:wikidata": "Q110419156",
+      "cuisine": "italian;pizza",
+      "name": "Santa Lucia Subito",
+      "old_name": "Pizzeria Romantica Stampfenbach",
+      "operator": "Bindella",
+      "reservation": "no",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "website": "https://www.bindella.ch/gastronomie/santa-lucia-subito"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2890776284,
+    "lat": 47.3823352,
+    "lon": 8.5406266,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "email": "info@whiteelephant.ch",
+      "name": "White Elephant",
+      "opening_hours": "Mo-Fr 12:00-14:00, Su-Th 18:00-22:00, Fr-Sa 18:00-23:00",
+      "phone": "+41 44 360 70 70",
+      "website": "https://www.whiteelephant.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2901977801,
+    "lat": 47.3837629,
+    "lon": 8.5298256,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "112",
+      "addr:postcode": "8005",
+      "addr:street": "Josefstrasse",
+      "alt_name": "Burgermeister Josefstrasse",
+      "amenity": "restaurant",
+      "branch": "Zürich Josefstrasse",
+      "cuisine": "burger",
+      "name": "Burgermeister",
+      "old_name": "Yooji's",
+      "takeaway": "yes",
+      "website": "https://www.burger-meister.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2904476133,
+    "lat": 47.3843323,
+    "lon": 8.5302362,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "43",
+      "addr:postcode": "8005",
+      "addr:street": "Luisenstrasse",
+      "amenity": "restaurant",
+      "contact:phone": "+41 44 271 00 66",
+      "contact:website": "www.4leoni-firenze.ch",
+      "cuisine": "italian",
+      "name": "4Leoni",
+      "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30; Su 11:30-23:30",
+      "outdoor_seating": "yes",
+      "website": "https://4leoni-firenze.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2904476134,
+    "lat": 47.3846382,
+    "lon": 8.5297901,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2021-02-07",
+      "name": "Valentin",
+      "opening_hours": "Mo-Fr 11:30-14:00,17:30-24:00, Sa 18:00-02:00",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2904476135,
+    "lat": 47.3848320,
+    "lon": 8.5295929,
+    "tags": {
+      "addr:housenumber": "83",
+      "addr:street": "Heinrichstrasse",
+      "amenity": "restaurant",
+      "contact:email": "info@lacontrada.ch",
+      "name": "La Contrada",
+      "opening_hours": "Tu-Fr 10:00-14:00, 17:30-00:30; Sa, Su 17:30-00:30",
+      "phone": "+41442725090",
+      "website": "http://www.lacontrada.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2904476136,
+    "lat": 47.3847907,
+    "lon": 8.5277141,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "146",
+      "addr:postcode": "8005",
+      "addr:street": "Josefstrasse",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2023-01-15",
+      "cuisine": "indian",
+      "name": "Friends Corner",
+      "opening_hours": "Mo-Sa 11:00-22:30",
+      "wheelchair": "no",
+      "wheelchair:description": "Terassensitzplätze vor dem Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2904487294,
+    "lat": 47.3838905,
+    "lon": 8.5289598,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "24",
+      "addr:postcode": "8005",
+      "addr:street": "Gasometerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-09-11",
+      "cuisine": "regional",
+      "name": "Josef",
+      "opening_hours": "Mo-Fr 11:30-14:00, Mo-We 17:00-01:00; Th-Sa 17:00-02:00",
+      "website": "http://www.josef.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2904973400,
+    "lat": 47.3857107,
+    "lon": 8.5420014,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "107",
+      "addr:postcode": "8006",
+      "addr:street": "Weinbergstrasse",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "indoor_seating": "yes",
+      "name": "El Alebríje",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2923001958,
+    "lat": 47.3832801,
+    "lon": 8.5283610,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "76",
+      "addr:postcode": "8005",
+      "addr:street": "Neugasse",
+      "amenity": "restaurant",
+      "contact:email": "chimys.zh@gmail.com",
+      "contact:phone": "+41 43 366 82 72",
+      "contact:website": "https://www.chimys.ch",
+      "cuisine": "asian",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "only",
+      "name": "Chimy's",
+      "opening_hours": "Mo 00:00-24:00; Tu-Sa 18:00-23:00; Su 17:30-22:00",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "toilets:wheelchair": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2957645174,
+    "lat": 47.3902940,
+    "lon": 8.5392273,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "32",
+      "addr:postcode": "8006",
+      "addr:street": "Schaffhauserstrasse",
+      "amenity": "restaurant",
+      "capacity": "20",
+      "check_date": "2023-05-13",
+      "cuisine": "indian",
+      "name": "Thali Indian Restaurant",
+      "opening_hours": "Mo-Fr 11:00-14:00, Mo-Fr 17:30-22:00; Sa-Su 17:30-22:00",
+      "website": "http://www.thali1.ch",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3013422856,
+    "lat": 47.3789304,
+    "lon": 8.5314462,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "47",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "cuisine": "greek",
+      "name": "Ynos",
+      "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-02:00; Sa 09:00-02:00",
+      "phone": "+41 44 536 44 44",
+      "website": "http://www.ynos.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3357441576,
+    "lat": 47.3816229,
+    "lon": 8.5421505,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "70",
+      "addr:postcode": "8006",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "contact:email": "info@african-queen.ch",
+      "contact:phone": "+41 43 255 0103",
+      "contact:website": "http://www.african-queen.ch/",
+      "cuisine": "african",
+      "name": "African Queen",
+      "opening_hours": "Tu-Sa 18:00-23:00",
+      "outdoor_seating": "no",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3472768901,
+    "lat": 47.3776411,
+    "lon": 8.5334110,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "16b",
+      "addr:postcode": "8004",
+      "addr:street": "Lagerstrasse",
+      "alt_name": "Beetnut Lagerstrasse",
+      "amenity": "restaurant",
+      "branch": "Zürich Europaallee",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "only",
+      "indoor_seating": "yes",
+      "name": "Beetnut",
+      "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+      "operator": "Beetnut",
+      "outdoor_seating": "yes",
+      "website": "https://beetnut.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3578338893,
+    "lat": 47.3775824,
+    "lon": 8.5276791,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "30",
+      "addr:postcode": "8004",
+      "addr:street": "Brauerstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "diet:vegan": "yes",
+      "name": "Veganitas",
+      "outdoor_seating": "yes",
+      "website": "https://www.veganitas.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3696058521,
+    "lat": 47.3841944,
+    "lon": 8.5284377,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "137",
+      "addr:postcode": "8005",
+      "addr:street": "Josefstrasse",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Maneez",
+      "opening_hours": "Mo-Su 11:00-21:45",
+      "takeaway": "yes",
+      "website": "https://www.maneez-zuerich.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3706789050,
+    "lat": 47.3792128,
+    "lon": 8.5435914,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "32",
+      "addr:postcode": "8006",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "international",
+      "delivery": "no",
+      "name": "Didi's Frieden",
+      "phone": "+41 44 253 18 10",
+      "smoking": "no",
+      "takeaway": "no",
+      "website": "https://www.didisfrieden.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3751319529,
+    "lat": 47.3843440,
+    "lon": 8.5311512,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "243",
+      "addr:postcode": "8005",
+      "addr:street": "Langstrasse",
+      "alt_name": "Burgermeister Limmatplatz",
+      "amenity": "restaurant",
+      "branch": "Zürich Limmatplatz",
+      "check_date": "2023-04-07",
+      "cuisine": "burger",
+      "drive_through": "no",
+      "indoor_seating": "yes",
+      "name": "Burgermeister",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 271 58 10",
+      "website": "https://www.burger-meister.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3862642766,
+    "lat": 47.3834555,
+    "lon": 8.5303841,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "102",
+      "addr:postcode": "8005",
+      "addr:street": "Josefstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-10",
+      "name": "Co Chin Chin",
+      "opening_hours": "Mo-Sa 11:00-23:00",
+      "outdoor_seating": "yes",
+      "start_date": "2018-09-20",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3875851857,
+    "lat": 47.3796260,
+    "lon": 8.5434495,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hotel Bristol",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3932278823,
+    "lat": 47.3806356,
+    "lon": 8.5336595,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "56",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "amenity": "restaurant",
+      "capacity": "35",
+      "cuisine": "thai",
+      "name": "Chiang Mai",
+      "opening_hours": "Mo-We 10:30-19:00; Th-Sa 10:30-21:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 271 82 52",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "website": "https://www.chiang-mai.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4004288495,
+    "lat": 47.3809156,
+    "lon": 8.5426593,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "56",
+      "addr:postcode": "8006",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Thip & More",
+      "phone": "+41 79 374 78 25",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4034163671,
+    "lat": 47.3777530,
+    "lon": 8.5357364,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "1a",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "changing_table": "yes",
+      "cuisine": "international",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "only",
+      "email": "sihlpost@hiltl.ch",
+      "indoor_seating": "yes",
+      "name": "Hiltl Sihlpost",
+      "opening_hours": "Mo-We 07:00-22:00; Th,Fr 07:00-23:00; Sa 07:00-22:00; Su 08:00-22:00",
+      "outdoor_seating": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+41 44 344 11 11",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "toilets:wheelchair": "yes",
+      "website": "https://www.hiltl.ch/de/standorte/sihlpost",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4035680910,
+    "lat": 47.3830864,
+    "lon": 8.5329144,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "52",
+      "addr:postcode": "8005",
+      "addr:street": "Ackerstrasse",
+      "amenity": "restaurant",
+      "capacity": "10",
+      "check_date": "2023-04-07",
+      "cuisine": "indian",
+      "name": "Himalaya",
+      "opening_hours": "Mo 11:30-14:00; Tu-Fr 11:00-14:00,18:00-22:30; Sa 18:00-22:30",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://www.himalaya-restaurant.ch/restaurant/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4053473354,
+    "lat": 47.3902274,
+    "lon": 8.5387940,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-06-03",
+      "cuisine": "italian",
+      "name": "Al Ventotto",
+      "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa 17:30-23:00; Su 16:30-22:00",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4193459893,
+    "lat": 47.3774130,
+    "lon": 8.5439582,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "indoor_seating": "yes",
+      "name": "QQ Sushi",
+      "opening_hours": "Mo-Fr 11:30-14:30, Mo-Th 17:30-22:00, Fr 17:30-23:00, Sa 11:30-23:00, PH,Su 17:30-22:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 261 26 26",
+      "website": "http://qq-sushi.ch/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4217457104,
+    "lat": 47.3786830,
+    "lon": 8.5437382,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "persian",
+      "name": "Kian",
+      "opening_hours": "Mo-Su 10:00-23:00",
+      "phone": "+41 44 577 41 00",
+      "website": "http://www.kian-restaurant.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4244051791,
+    "lat": 47.3773217,
+    "lon": 8.5383780,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "12",
+      "addr:postcode": "8001",
+      "addr:street": "Bahnhofplatz",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "indoor_seating": "yes",
+      "name": "Albanesi",
+      "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-22:00; Su 09:30-21:00",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4260117131,
+    "lat": 47.3776662,
+    "lon": 8.5295623,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "19",
+      "addr:street": "Kanonengasse",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "delivery": "yes",
+      "diet:vegetarian": "yes",
+      "indoor_seating": "yes",
+      "name": "Cima Curry",
+      "opening_hours": "Mo-Su 11:00-22:00",
+      "outdoor_seating": "no",
+      "phone": "+41 44 241 16 30",
+      "takeaway": "yes",
+      "website": "http://www.cimacurry.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4309713089,
+    "lat": 47.3838555,
+    "lon": 8.5295871,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "31",
+      "addr:postcode": "8005",
+      "addr:street": "Luisenstrasse",
+      "alt_name": "Santa Lucia Limmatplatz",
+      "amenity": "restaurant",
+      "branch": "Zürich Industrie",
+      "brand": "Santa Lucia",
+      "brand:wikidata": "Q110419156",
+      "cuisine": "pizza;italian",
+      "name": "Santa Lucia",
+      "opening_hours": "Mo-Su 11:00-24:00",
+      "operator": "Bindella",
+      "outdoor_seating": "yes",
+      "oven": "wood_fired",
+      "takeaway": "yes",
+      "website": "https://www.bindella.ch/de/santa-lucia-limmatplatz.html",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4316896999,
+    "lat": 47.3789518,
+    "lon": 8.5447211,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Orient Catering",
+      "phone": "+41 44 201 46 47",
+      "website": "http://www.orientcatering.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4406891594,
+    "lat": 47.3818280,
+    "lon": 8.5326917,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Wesley's Kitchen",
+      "name:de": "Wesley's Kitchen",
+      "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00; Sa 11:00-22:00; Su 10:00-21:00",
+      "website": "https://www.wesleys-kitchen.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4424003112,
+    "lat": 47.3789404,
+    "lon": 8.5267275,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "9",
+      "addr:postcode": "8004",
+      "addr:street": "Rolandstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "vietnamese",
+      "name": "Now We Go Vegan",
+      "outdoor_seating": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4424600898,
+    "lat": 47.3780241,
+    "lon": 8.5407045,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "15",
+      "addr:place": "Hauptbahnhof, Nordtrakt",
+      "addr:postcode": "8001",
+      "addr:street": "Bahnhofplatz",
+      "amenity": "restaurant",
+      "email": "info@brasserie-federal.ch",
+      "indoor": "yes",
+      "indoor_seating": "yes",
+      "level": "0",
+      "name": "Brasserie Federal",
+      "opening_hours": "Su-We 09:00-23:00; Th-Sa 09:00-24:00",
+      "operator": "Candrian Catering",
+      "outdoor_seating": "yes",
+      "payment:american_express": "yes",
+      "payment:coins": "yes",
+      "payment:mastercard": "yes",
+      "payment:notes": "yes",
+      "payment:visa": "yes",
+      "phone": "+41 44 217 15 85",
+      "toilets:wheelchair": "no",
+      "website": "https://www.brasserie-federal.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4424600919,
+    "lat": 47.3775720,
+    "lon": 8.5394549,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:place": "Hauptbahnhof, Südtrakt",
+      "addr:postcode": "8001",
+      "amenity": "restaurant",
+      "contact:facebook": "sorasushihb",
+      "contact:phone": "+41 44 217 15 10",
+      "cuisine": "japanese",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "level": "0",
+      "name": "Sora Sushi",
+      "operator": "Candrian Catering",
+      "outdoor_seating": "yes",
+      "website": "https://website.sora-sushi.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4579719494,
+    "lat": 47.3789138,
+    "lon": 8.5409931,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "2",
+      "addr:postcode": "8001",
+      "addr:street": "Museumstrasse",
+      "amenity": "restaurant",
+      "diet:vegetarian": "yes",
+      "email": "info@restaurantspitz.ch",
+      "name": "Spitz",
+      "name:de": "Spitz",
+      "opening_hours": "Mo-Fr 11:30-14:00,18:00-24:00; Sa 17:00-24:00",
+      "phone": "+41 44 221 94 77",
+      "website": "https://restaurantspitz.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4599535995,
+    "lat": 47.3803612,
+    "lon": 8.5424142,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "4",
+      "addr:postcode": "8006",
+      "addr:street": "Stampfenbachplatz",
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "name": "Corner 48",
+      "outdoor_seating": "pedestrian_zone",
+      "smoking": "no",
+      "website": "http://www.corner48.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4604638576,
+    "lat": 47.3807187,
+    "lon": 8.5265220,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Kokoro",
+      "opening_hours": "Tu-Fr 11:30-14:30, Tu-Sa 18:30-23:00",
+      "opening_hours:kitchen": "Tu-Fr 11:30-14:00, Tu-Sa 18:30-21:45",
+      "phone": "+41 44 241 37 37",
+      "website": "https://www.kokoro-restaurant.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4817455055,
+    "lat": 47.3780641,
+    "lon": 8.5438163,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "12",
+      "addr:postcode": "8001",
+      "addr:street": "Stampfenbachstrasse",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "email": "makihauszh@gmail.com",
+      "name": "Maki Haus",
+      "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-22:00",
+      "phone": "+41 44 211 01 01",
+      "website": "https://www.makihaus.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4833061534,
+    "lat": 47.3783532,
+    "lon": 8.5396557,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:place": "Hauptbahnhof, Passage Löwenstrasse",
+      "addr:postcode": "8001",
+      "alt_name": "Scent of Bamboo Hauptbahnhof",
+      "amenity": "restaurant",
+      "branch": "Zürich HB",
+      "check_date:opening_hours": "2023-02-11",
+      "cuisine": "chinese;thai",
+      "indoor_seating": "yes",
+      "level": "-2",
+      "name": "Scent of Bamboo",
+      "opening_hours": "Mo-Su 11:00-22:00",
+      "opening_hours:signed": "no",
+      "operator": "Suan Long Enge",
+      "outdoor_seating": "no",
+      "takeaway": "yes",
+      "website": "http://suan-long.ch/scentofbamboo/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4833061595,
+    "lat": 47.3777845,
+    "lon": 8.5393225,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:place": "Hauptbahnhof, Querhalle",
+      "addr:postcode": "8001",
+      "amenity": "restaurant",
+      "indoor": "yes",
+      "level": "1",
+      "name": "Time... Lounge",
+      "operator": "Candrian Catering",
+      "website": "https://www.time-lounge.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4889986286,
+    "lat": 47.3883565,
+    "lon": 8.5532985,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "99",
+      "addr:postcode": "8044",
+      "addr:street": "Germaniastrasse",
+      "amenity": "restaurant",
+      "name": "Restaurant Rigiblick",
+      "opening_hours": "We-Su 11:30-22:00",
+      "operator": "ZFV-Unternehmungen",
+      "outdoor_seating": "yes",
+      "phone": "+41 43 255 15 70",
+      "website": "https://www.restaurantrigiblick.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4891858476,
+    "lat": 47.3819656,
+    "lon": 8.5455532,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "2",
+      "addr:postcode": "8006",
+      "addr:street": "Scheuchzerstrasse",
+      "amenity": "restaurant",
+      "capacity": "70",
+      "email": "minerva@zfv.ch",
+      "name": "Mensa Institut Minerva",
+      "opening_hours": "Mo-Fr 07:30-15:00",
+      "operator": "ZFV-Unternehmungen",
+      "self_service": "yes",
+      "website": "https://zfv.ch/de/microsites/mensa-institut-minerva/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4898166176,
+    "lat": 47.3804387,
+    "lon": 8.5285106,
+    "tags": {
+      "addr:housenumber": "150",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "diet:vegetarian": "yes",
+      "name": "Neni",
+      "opening_hours": "Mo-Fr 06:30-23:00; Sa-Su 07:30-23:00",
+      "website": "https://www.neni.ch",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5077193368,
+    "lat": 47.3776185,
+    "lon": 8.5275974,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "name": "Milieu",
+      "outdoor_seating": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5427821057,
+    "lat": 47.3862517,
+    "lon": 8.5287289,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "49",
+      "addr:postcode": "8005",
+      "addr:street": "Quellenstrasse",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "email": "reservation@tadka.ch",
+      "name": "Tadka",
+      "opening_hours": "Mo-Fr 11:30-14:00, 18:00-22:30; Sa-Su 09:00-22:30",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 578 0641",
+      "takeaway": "yes",
+      "website": "https://tadka.ch",
+      "website:menu": "https://tadka.ch/menu/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5429035472,
+    "lat": 47.3798059,
+    "lon": 8.5257791,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "18",
+      "addr:postcode": "8004",
+      "addr:street": "Nietengasse",
+      "amenity": "restaurant",
+      "cuisine": "steak_house",
+      "email": "restaurant@gaucho.ch",
+      "name": "Gaucho",
+      "opening_hours": "Tu-Fr 11:30-14:00, 18:30-23:00; Sa 18:30-23:00",
+      "phone": "+41 44 321 18 18",
+      "website": "https://gaucho.ch/restaurant/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5803645582,
+    "lat": 47.3805838,
+    "lon": 8.5261448,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "diet:vegetarian": "yes",
+      "indoor_seating": "yes",
+      "name": "Roi-Et",
+      "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-23:30",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 291 58 30",
+      "website": "http://www.roi-et.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5976303007,
+    "lat": 47.3778441,
+    "lon": 8.5295709,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:postcode": "8004",
+      "addr:street": "Zwinglistrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "japanese",
+      "name": "Tokyo Tapas",
+      "start_date": "2013",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6077387385,
+    "lat": 47.3786743,
+    "lon": 8.5437404,
+    "tags": {
+      "addr:postcode": "8001",
+      "amenity": "restaurant",
+      "cuisine": "turkish",
+      "internet_access": "wlan",
+      "name": "So Chill",
+      "website": "https://www.sochill.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6662057268,
+    "lat": 47.3786072,
+    "lon": 8.5344739,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "12",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "branch": "Zürich Europaallee",
+      "check_date:opening_hours": "2022-07-05",
+      "cuisine": "asian;thai",
+      "indoor_seating": "yes",
+      "name": "Nooba",
+      "opening_hours": "Mo-Sa 11:00-23:00",
+      "operator": "Two Spice",
+      "outdoor_seating": "yes",
+      "website": "https://www.nooba.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6680755386,
+    "lat": 47.3840078,
+    "lon": 8.5318712,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "22",
+      "addr:postcode": "8005",
+      "addr:street": "Fierzgasse",
+      "amenity": "restaurant",
+      "check_date": "2023-05-24",
+      "cuisine": "afghan",
+      "indoor_seating": "yes",
+      "name": "Afghan Anar",
+      "opening_hours": "Mo-Fr 11:30-23:00; Sa 18:00-23:30; Su off",
+      "outdoor_seating": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+41 44 223 17 87",
+      "website": "https://www.afghananar.ch",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6761865567,
+    "lat": 47.3791748,
+    "lon": 8.5321558,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "48",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "branch": "Zürich Europaallee",
+      "cuisine": "korean",
+      "indoor_seating": "yes",
+      "name": "Miss Miu",
+      "opening_hours": "Mo-Th 11:00-23:00; Fr,Sa 10:00-24:00; Su 12:00-23:00",
+      "operator": "Fredy Wiesner Gastronomie",
+      "outdoor_seating": "yes",
+      "smoking": "outside",
+      "takeaway": "yes",
+      "website": "https://www.miss-miu.ch/zuerich-europaallee",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6765623991,
+    "lat": 47.3812815,
+    "lon": 8.5313950,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "80",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "amenity": "restaurant",
+      "changing_table": "yes",
+      "name": "Spritzwerk",
+      "opening_hours": "Mo-Fr 11:30-14:00, 17:30-23:00; Sa 17:30-23:00",
+      "phone": "+41 43 558 20 00",
+      "toilets:wheelchair": "designated",
+      "website": "https://ambossrampe.ch/restaurant/",
+      "website:menu": "https://www.lunchgate.ch/restaurant/spritzwerk/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6765644326,
+    "lat": 47.3802884,
+    "lon": 8.5344583,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "37",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "amenity": "restaurant",
+      "indoor_seating": "yes",
+      "name": "Zur Werkstadt",
+      "opening_hours": "Tu-Fr 11:30-23:59; Sa 14:00-23:59",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 206 50 60",
+      "smoking": "outside",
+      "website": "https://www.restaurant-stadtkaeserei.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6842658701,
+    "lat": 47.3831028,
+    "lon": 8.5301347,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "213",
+      "addr:postcode": "8005",
+      "addr:street": "Langstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-10",
+      "cuisine": "indian",
+      "delivery": "yes",
+      "email": "info@th1.ch",
+      "name": "Thali House",
+      "opening_hours": "Mo-Su 11:00-21:45",
+      "opening_hours:signed": "no",
+      "phone": "+41 44 821 67 33",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://www.th1.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6872075030,
+    "lat": 47.3810005,
+    "lon": 8.5353465,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "il bistrò",
+      "opening_hours": "Mo-Fr 07:30-16:00",
+      "website": "https://ilbistro.business.site/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7055101045,
+    "lat": 47.3848545,
+    "lon": 8.5485426,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "name": "Zawan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7204648136,
+    "lat": 47.3818826,
+    "lon": 8.5334773,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "71",
+      "addr:postcode": "8005",
+      "addr:street": "Konradstrasse",
+      "amenity": "restaurant",
+      "branch": "Zürich Industrie",
+      "cuisine": "italian",
+      "name": "NA081",
+      "opening_hours": "Mo-Fr 11:30-13:30, Mo-Th 18:00-22:00, Fr-Su 18:00-22:30",
+      "website": "https://na081.ch/zurich/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8643617160,
+    "lat": 47.3816304,
+    "lon": 8.5293840,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "121",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-09-24",
+      "cuisine": "italian",
+      "level": "0",
+      "name": "Osso",
+      "opening_hours": "Su-Th 09:00-24:00; Fr,Sa 09:00-02:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 523 76 33",
+      "website": "https://ossozuerich.ch/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8816562122,
+    "lat": 47.3812340,
+    "lon": 8.5309594,
+    "tags": {
+      "addr:housenumber": "111",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "email": "riservazioni@lasantasete.restaurant",
+      "name": "La Santa Sete",
+      "name:de": "La Santa Sete",
+      "name:it": "La Santa Sete",
+      "opening_hours": "Mo-Fr 12:00-01:00; Sa 16:00-02:00",
+      "phone": "+41 444 40 15 44",
+      "website": "https://lasantasete.restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9464524017,
+    "lat": 47.3782411,
+    "lon": 8.5438502,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mohini"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9499319817,
+    "lat": 47.3782201,
+    "lon": 8.5441406,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:street": "Weinbergstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-21",
+      "email": "info@mohini.ch",
+      "indoor_seating": "yes",
+      "name": "Mohini",
+      "opening_hours": "Mo-Fr 11:00-15:00 || \"einmal im Monat 18:00-23:00\"",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 252 52 11",
+      "website": "https://mohini.ch",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9644130217,
+    "lat": 47.3784608,
+    "lon": 8.5291681,
+    "tags": {
+      "addr:housenumber": "22",
+      "addr:postcode": "8004",
+      "addr:street": "Tellstrasse",
+      "amenity": "restaurant",
+      "cuisine": "turkish",
+      "email": "yemek@guel.ch",
+      "indoor_seating": "yes",
+      "name": "Gül",
+      "opening_hours": "Mo-Fr 18:00-24:00; Sa 11:00-14:00 ,18:00-24:00; Su 11:00-15:00,18:00-22:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 44 431 90 90",
+      "website": "http://www.guel.ch",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9792386803,
+    "lat": 47.3783449,
+    "lon": 8.5357764,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "4",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "branch": "Europaallee",
+      "cuisine": "pizza",
+      "delivery": "no",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "email": "europaallee@vito.ch",
+      "indoor_seating": "yes",
+      "name": "VITO",
+      "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00; Su 12:00-22:00",
+      "outdoor_seating": "yes",
+      "phone": "+41 79 274 18 15",
+      "reservation": "yes",
+      "takeaway": "yes",
+      "website": "https://www.vito.ch/europaallee",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10158245332,
+    "lat": 47.3827433,
+    "lon": 8.5357837,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "60",
+      "addr:postcode": "8005",
+      "addr:street": "Ausstellungsstrasse",
+      "amenity": "restaurant",
+      "diet:vegetarian": "yes",
+      "level": "0",
+      "name": "Museumscafé",
+      "opening_hours": "Tu-Su 10:00-17:00, Th 10:00-20:00",
+      "opening_hours:kitchen": "Tu-Fr 11:30-13:30",
+      "outdoor_seating": "no",
+      "website": "https://museum-gestaltung.ch/de/news/mittagsmenu/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10578946341,
+    "lat": 47.3781048,
+    "lon": 8.5430318,
+    "tags": {
+      "amenity": "restaurant",
+      "name:en": "Café Elena"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10647472305,
+    "lat": 47.3787381,
+    "lon": 8.5277431,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-05-12",
+      "cuisine": "taiwanese",
+      "name": "Simon Says Taste Taiwan",
+      "opening_hours": "Mo off; Tu-Fr 11:30-13:30,18:00-21:15; Sa 11:30-21:45; Su 17:30-21:00",
+      "phone": "+41 44 241 63 88",
+      "website": "https://simonsaystastetaiwan.ch/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10647526305,
+    "lat": 47.3806824,
+    "lon": 8.5271354,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Disco Volante",
+      "name:de": "Disco Volante ZH"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10654227179,
+    "lat": 47.3772897,
+    "lon": 8.5459039,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Restaurant Leonhard",
+      "opening_hours": "Mo-Fr 10:00-17:00; Sa 14:00-17:00; Su 11:00-17:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10750585942,
+    "lat": 47.3830089,
+    "lon": 8.5303012,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Riviera"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10793793070,
+    "lat": 47.3889195,
+    "lon": 8.5264887,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "diet:seafood": "yes",
+      "name": "Elmira",
+      "website": "https://www.elmira.zuerich"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10795377101,
+    "lat": 47.3787745,
+    "lon": 8.5336711,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "22",
+      "addr:postcode": "8004",
+      "addr:street": "Europaallee",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Tokyo Express",
+      "opening_hours": "Mo-Fr 11:30-14:00,17:30-21:30; Sa 11:30-21:30",
+      "website": "https://www.tokyoexpress.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10831702421,
+    "lat": 47.3812322,
+    "lon": 8.5331802,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "27",
+      "addr:postcode": "8005",
+      "addr:street": "Josefstrasse",
+      "amenity": "restaurant",
+      "cuisine": "pizza;pasta;italian",
+      "name": "DaPizi",
+      "opening_hours": "Tu-Fr 11:00-14:30,18:00-23:00; Sa 12:00-23:00",
+      "outdoor_seating": "yes",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+41 43 818 27 76",
+      "reservation": "yes",
+      "takeaway": "yes",
+      "toilets": "yes",
+      "website": "https://dapizi2017.ch/",
+      "website:menu": "https://dapizi2017.ch/wp-content/uploads/2022/05/Menukarte-english.pdf"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10860757271,
+    "lat": 47.3788419,
+    "lon": 8.5451350,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:housenumber": "10",
+      "addr:postcode": "8001",
+      "addr:street": "Leonhardstrasse",
+      "amenity": "restaurant",
+      "cuisine": "lebanese;turkish",
+      "name": "Orient World",
+      "opening_hours": "Mo-Sa 10:00-21:00",
+      "phone": "+41 043 268 48 48",
+      "website": "https://orientworld.ch/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10883613147,
+    "lat": 47.3812987,
+    "lon": 8.5313780,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:country": "CH",
+      "addr:housenumber": "80",
+      "addr:postcode": "8005",
+      "addr:street": "Zollstrasse",
+      "amenity": "restaurant",
+      "changing_table": "yes",
+      "cuisine": "taiwanese",
+      "name": "Baba Baos",
+      "opening_hours": "Mo-Fr 11:30-14:00, 17:30-23:00; Sa 17:30-23:00",
+      "outdoor_seating": "no",
+      "toilets:wheelchair": "designated",
+      "website": "https://ambossrampe.ch/restaurant/",
+      "website:menu": "https://www.lunchgate.ch/restaurant/spritzwerk/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10896827512,
+    "lat": 47.3800211,
+    "lon": 8.5422229,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Walchestrasse",
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "name": "Sapa Canteen",
+      "opening_hours": "Mo-Sa 11:30-14:30, 17:30-22:00",
+      "phone": "044 364 93 93",
+      "website": "https://www.sapacanteen.ch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10946818682,
+    "lat": 47.3777444,
+    "lon": 8.5269581,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-06-02",
+      "name": "Oh my Greek!",
+      "opening_hours": "Mo off; Tu-Th,Su 11:30-22:00; Fr-Sa 11:30-23:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10949082348,
+    "lat": 47.3881157,
+    "lon": 8.5390656,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-06-03",
+      "name": "differente",
+      "opening_hours": "Mo-Fr 06:30-23:00; Sa 17:00-23:00; Su off"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10995816514,
+    "lat": 47.3791998,
+    "lon": 8.5479282,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-06-21",
+      "name": "Sushi Bar Leo",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10995816516,
+    "lat": 47.3833749,
+    "lon": 8.5431961,
+    "tags": {
+      "addr:housenumber": "75",
+      "addr:street": "Weinbergstrasse",
+      "amenity": "restaurant",
+      "check_date": "2023-06-21",
+      "name": "Mesa Madrid",
+      "outdoor_seating": "yes",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11057125637,
+    "lat": 47.3888945,
+    "lon": 8.5282409,
+    "tags": {
+      "addr:city": "Zürich",
+      "addr:street": "Sihlquai",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "brewery": "yes",
+      "cuisine": "asian",
+      "name": "Haus am Fluss Asian Food Hall & Bar",
+      "outdoor_seating": "yes",
+      "website": "https://haus-am-fluss.ch"
+    }
+  }
+]
